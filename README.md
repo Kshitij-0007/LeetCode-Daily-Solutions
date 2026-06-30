@@ -12,4 +12,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0061-rotate-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
