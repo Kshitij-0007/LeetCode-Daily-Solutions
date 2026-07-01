@@ -16,4 +16,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0007-reverse-integer/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
