@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0709-to-lower-case/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
