@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -63,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
