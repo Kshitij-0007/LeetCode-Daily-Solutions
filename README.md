@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,5 +88,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
