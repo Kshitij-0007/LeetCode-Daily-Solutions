@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
