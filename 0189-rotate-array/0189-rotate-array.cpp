@@ -3,8 +3,6 @@ public:
 
     void reverseArr(vector<int>& arr,int start,int end)
     {
-        if(start==end)
-            return;
         while(start<end)
         {
             int temp=arr[start];
