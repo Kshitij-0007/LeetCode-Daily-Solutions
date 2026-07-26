@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1323-maximum-69-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Stack
@@ -113,5 +115,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
