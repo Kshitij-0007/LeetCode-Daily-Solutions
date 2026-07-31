@@ -42,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
