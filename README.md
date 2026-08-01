@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
