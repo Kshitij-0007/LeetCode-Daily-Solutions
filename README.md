@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -139,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0877-stone-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
