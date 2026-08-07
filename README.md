@@ -46,20 +46,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
