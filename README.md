@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0520-detect-capital/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
