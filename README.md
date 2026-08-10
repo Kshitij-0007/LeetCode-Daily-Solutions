@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
@@ -54,11 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
@@ -66,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## String
