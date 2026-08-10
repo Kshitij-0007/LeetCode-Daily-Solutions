@@ -13,23 +13,35 @@ class Solution {
 public:
     bool isSimilar(TreeNode* p, TreeNode* q)
     {
-        if((p==NULL && q!=NULL)||(p!=NULL && q==NULL))
-            return false;
-        if((p!=NULL && q!=NULL) &&(p->val!=q->val))
-            return false;
-        if(p==NULL&&q==NULL)
+        // if((p==NULL && q!=NULL)||(p!=NULL && q==NULL))
+        //     return false;
+        // if((p!=NULL && q!=NULL) &&(p->val!=q->val))
+        //     return false;
+        // if(p==NULL&&q==NULL)
+        // {
+        //     return true;
+        // }
+        // if((p->left==NULL&&q->left!=NULL)||(p->left!=NULL && q->left==NULL)||(p->right==NULL&&q->right!=NULL)||(p->right!=NULL && q->right==NULL))
+        // {
+        //     return false;
+        // }
+        // if((p->left!=NULL&&q->left!=NULL)&&(p->left->val!=q->left->val))
+        // {
+        //     return false;
+        // }
+        // if((p->right!=NULL&&q->right!=NULL)&&(p->right->val!=q->right->val))
+        // {
+        //     return false;
+        // }
+        if(p==NULL && q==NULL)
         {
             return true;
         }
-        if((p->left==NULL&&q->left!=NULL)||(p->left!=NULL && q->left==NULL)||(p->right==NULL&&q->right!=NULL)||(p->right!=NULL && q->right==NULL))
+        if(p==NULL||q==NULL)
         {
             return false;
         }
-        if((p->left!=NULL&&q->left!=NULL)&&(p->left->val!=q->left->val))
-        {
-            return false;
-        }
-        if((p->right!=NULL&&q->right!=NULL)&&(p->right->val!=q->right->val))
+        if(p->val!=q->val)
         {
             return false;
         }
