@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0136-single-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
