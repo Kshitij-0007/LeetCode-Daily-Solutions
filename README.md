@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
