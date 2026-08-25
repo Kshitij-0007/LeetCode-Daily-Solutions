@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Stack
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
