@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3959-check-good-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3959-check-good-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
