@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
