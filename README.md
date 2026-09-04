@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -255,4 +259,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0169-majority-element/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
