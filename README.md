@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
+| [3978-unique-middle-element](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3978-unique-middle-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0169-majority-element/) | Easy |
+| [3978-unique-middle-element](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3978-unique-middle-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
