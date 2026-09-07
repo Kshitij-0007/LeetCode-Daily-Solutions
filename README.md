@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3978-unique-middle-element](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3978-unique-middle-element/) | Easy |
 ## Stack
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
