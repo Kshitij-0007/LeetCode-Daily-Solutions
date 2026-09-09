@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
