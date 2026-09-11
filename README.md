@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -276,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
