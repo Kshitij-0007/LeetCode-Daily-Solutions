@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/0415-add-strings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-0007/LeetCode-Daily-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
